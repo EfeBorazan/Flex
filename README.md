@@ -43,4 +43,5 @@ This isn't just another client - it's Flex. A testament to what's possible when 
 
 Control. Power. Dominance. This is Flex.
 
+Join Our Discord!
 [![FLipkart](https://github.com/user-attachments/assets/24923d86-e85c-4a76-979d-9b1b450fb918)](https://discord.gg/PWuvuGgZPP)
