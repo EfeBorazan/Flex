@@ -13,7 +13,7 @@ The Power:
 We could list features, but that would be telling. Our proprietary systems and hidden capabilities aren't just improvements - they're complete reimaginings of what's possible. Every aspect is engineered for supremacy, whether you're in combat or exploring the furthest reaches of anarchy servers.
 
 Version & Compatibility:
-Currently targeting Minecraft 1.21.4, with plans to expand to other versions. Our client is designed to deliver exceptional performance across different server environments, with special focus on anarchy scenarios where every advantage matters.
+Currently targeting Minecraft 1.21.1, with plans to expand to other versions. Our client is designed to deliver exceptional performance across different server environments, with special focus on anarchy scenarios where every advantage matters.
 
 Our Vision:
 We're not just building another client - we're creating the future of dominance. Our roadmap includes revolutionary features and exclusive exploits that will transform how you play. From combat to utility, from movement to exploration - we're not just pushing boundaries, we're breaking them.
